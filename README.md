@@ -1,0 +1,1 @@
+# Verificador-de-parenteses-chaves-e-colchetes-para-compiladores-de-devs
